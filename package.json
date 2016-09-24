@@ -12,8 +12,7 @@
     "standard": "7.1.2"
   },
   "dependencies": {
-    "config": "1.21.0",
-    "nodejs-disks": "0.2.1"
+    "config": "1.21.0"
   },
   "keywords": [
     "CMDB",
